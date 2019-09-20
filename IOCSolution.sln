@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOC.Framework", "IOC.Framework\IOC.Framework.csproj", "{700DF807-5F17-4964-B0B5-5B3E830EEA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCConsoleApplication", "IOCConsoleApplication\IOCConsoleApplication.csproj", "{5CE77EB7-5737-4E7C-A618-B4FF785FB07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700DF807-5F17-4964-B0B5-5B3E830EEA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700DF807-5F17-4964-B0B5-5B3E830EEA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700DF807-5F17-4964-B0B5-5B3E830EEA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700DF807-5F17-4964-B0B5-5B3E830EEA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE77EB7-5737-4E7C-A618-B4FF785FB07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE77EB7-5737-4E7C-A618-B4FF785FB07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE77EB7-5737-4E7C-A618-B4FF785FB07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE77EB7-5737-4E7C-A618-B4FF785FB07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0F1976-5A44-43FE-9982-7BE57C4A6FA6}
+	EndGlobalSection
+EndGlobal
